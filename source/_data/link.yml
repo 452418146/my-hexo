@@ -1,0 +1,23 @@
+- class_name: 友情链接
+  class_desc: 那些人，那些事
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-tw/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单的博客框架
+
+- class_name: 网站
+  class_desc: 值得推荐的网站
+  link_list:
+    - name: BiliBili
+      link: https://www.bilibili.com/
+      avatar: https://i.loli.net/2021/05/28/PFTNqwkEd8WnZHj.png
+      descr: 中国最大的同性交友网站
+    - name: 腾讯云
+      link: https://www.weibo.com/
+      avatar: https://tse1-mm.cn.bing.net/th/id/R-C.71af7b8967d8369753c400428c65ea45?rik=Bd9UXZIiwG4AMA&riu=http%3a%2f%2fwww.annair.net%2fwp-content%2fuploads%2f2019%2f07%2f78310a55b319ebc45d3844bf8926cffc1e171657.jpg&ehk=l8gu6lEBLwwJLZ6mHuhWNBzbg0L7Rvj3xL8d4BRWWag%3d&risl=&pid=ImgRaw&r=0
+      descr: 云服务器
+    - name: Gitee
+      link: https://gitee.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 代码托管
